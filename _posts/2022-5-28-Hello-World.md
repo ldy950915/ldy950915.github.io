@@ -5,5 +5,3 @@ title: 초보개발자의 코드업 블로그(◦˙▿˙◦)
 
 개발 3년차의 우당탕탕 코딩 일기 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
